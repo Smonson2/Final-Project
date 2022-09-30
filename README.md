@@ -15,6 +15,7 @@ For universities to improve their ranking, it is important to know the performan
 https://www.kaggle.com/datasets/mylesoneill/world-university-rankings/download?datasetVersionNumber=2
 
 # Deliverable
+Deliverable does not contain entire analysis, only information relevant to the final results.
 https://public.tableau.com/app/profile/stephanie.monson/viz/FinalProject_16645570571310/Conclusion_1#1
 
 # Time Series
