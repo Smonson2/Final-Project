@@ -16,3 +16,6 @@ https://www.kaggle.com/datasets/mylesoneill/world-university-rankings/download?d
 
 # Deliverable
 https://public.tableau.com/app/profile/stephanie.monson/viz/FinalProject_16645570571310/Conclusion_1#1
+
+# Time Series
+Time series was learned for this project but a sample data set was used as I was unable to find a relevant data set for this project.
